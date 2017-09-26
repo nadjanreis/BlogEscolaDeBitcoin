@@ -1,0 +1,48 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="escoladebitcoin.com.br" resolutions="1x" timestamp="1506367093537">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="58252900" ref="index:sobre:videos:noticias:ebooks:post"/>
+    <file name="index.css" crc="405662877" ref="index"/>
+    <file name="sobre.css" crc="3961535174" ref="sobre"/>
+    <file name="videos.css" crc="3979887903" ref="videos"/>
+    <file name="noticias.css" crc="272577906" ref="noticias"/>
+    <file name="ebooks.css" crc="174264390" ref="ebooks"/>
+    <file name="post.css" crc="4289885670" ref="post"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:index:sobre:post:ebooks:videos:noticias:phone>sobre:phone>post:phone>noticias:phone>videos:phone>ebooks"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:index:sobre:post:ebooks:videos:noticias:phone>sobre:phone>post:phone>noticias:phone>videos:phone>ebooks"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:sobre:post:ebooks:videos:noticias:phone>sobre:phone>post:phone>noticias:phone>videos:phone>ebooks"/>
+    <file name="museconfig.js" crc="169177150" ref="phone>index:index:sobre:post:ebooks:videos:noticias:phone>sobre:phone>post:phone>noticias:phone>videos:phone>ebooks"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:index:sobre:post:ebooks:videos:noticias:phone>sobre:phone>post:phone>noticias:phone>videos:phone>ebooks"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:index:sobre:post:ebooks:videos:noticias:phone>sobre:phone>post:phone>noticias:phone>videos:phone>ebooks"/>
+    <file name="pie.js" crc="3831537696" ref="index:phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="simbolo_ebc.png" crc="164775732" seo="true" ref="index:sobre:post:ebooks:videos:noticias:phone>index:phone>sobre:phone>post:phone>noticias:phone>videos:phone>ebooks"/>
+    <file name="logo_ebc_alta.png" crc="428273289" seo="true" ref="index:sobre:post:ebooks:videos:noticias:phone>index:phone>sobre:phone>post:phone>noticias:phone>videos:phone>ebooks"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="226993451" ref="phone>index"/>
+      <file name="master_a-master.css" crc="155185285" ref="phone>sobre:phone>post:phone>ebooks:phone>index:phone>noticias:phone>videos"/>
+      <file name="sobre.css" crc="4235407650" ref="phone>sobre"/>
+      <file name="post.css" crc="463802677" ref="phone>post"/>
+      <file name="ebooks.css" crc="128710350" ref="phone>ebooks"/>
+      <file name="noticias.css" crc="3785756668" ref="phone>noticias"/>
+      <file name="videos.css" crc="189926065" ref="phone>videos"/>
+    </folder>
+    <file name="index.html" crc="3856800341" seo="true" mt="1506365870420" redirect="true"/>
+    <file name="sobre.html" crc="4039502301" seo="true" mt="1506366478693" redirect="true"/>
+    <file name="post.html" crc="228367268" seo="true" mt="1506366218068" redirect="true"/>
+    <file name="noticias.html" crc="257594172" seo="true" mt="1506366805037" redirect="true"/>
+    <file name="videos.html" crc="3865244033" seo="true" mt="1506366737984" redirect="true"/>
+    <file name="ebooks.html" crc="3980325898" seo="true" mt="1506366685734" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="162709964" seo="true" mt="1506365414834" redirect="true"/>
+  <file name="sobre.html" crc="216181506" seo="true" mt="1506366214928" redirect="true"/>
+  <file name="post.html" crc="3921792238" seo="true" mt="1506366218068" redirect="true"/>
+  <file name="ebooks.html" crc="225927481" seo="true" mt="1506366225154" redirect="true"/>
+  <file name="videos.html" crc="3932736948" seo="true" mt="1506366243670" redirect="true"/>
+  <file name="noticias.html" crc="536744208" seo="true" mt="1506366248116" redirect="true"/>
+</manifest>

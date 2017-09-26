@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://escoladebitcoin.com.br/index.html</loc>
+    <lastmod>2017-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://escoladebitcoin.com.br/phone/index.html"/>
+  </url>
+  <url>
+    <loc>http://escoladebitcoin.com.br/post.html</loc>
+    <lastmod>2017-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://escoladebitcoin.com.br/phone/post.html"/>
+  </url>
+  <url>
+    <loc>http://escoladebitcoin.com.br/ebooks.html</loc>
+    <lastmod>2017-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://escoladebitcoin.com.br/phone/ebooks.html"/>
+  </url>
+  <url>
+    <loc>http://escoladebitcoin.com.br/sobre.html</loc>
+    <lastmod>2017-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://escoladebitcoin.com.br/phone/sobre.html"/>
+  </url>
+  <url>
+    <loc>http://escoladebitcoin.com.br/videos.html</loc>
+    <lastmod>2017-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://escoladebitcoin.com.br/phone/videos.html"/>
+  </url>
+  <url>
+    <loc>http://escoladebitcoin.com.br/noticias.html</loc>
+    <lastmod>2017-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://escoladebitcoin.com.br/phone/noticias.html"/>
+  </url>
+  <url>
+    <loc>http://escoladebitcoin.com.br/images/logo_ebc_alta.png</loc>
+    <lastmod>2017-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://escoladebitcoin.com.br/images/simbolo_ebc.png</loc>
+    <lastmod>2017-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
